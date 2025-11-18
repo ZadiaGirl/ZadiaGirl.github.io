@@ -1,0 +1,20 @@
+/* target external links in ALL views */
+body {
+  --link-external-color: blue;
+  --link-external-color-hover: blue;
+}
+
+/* revert undesired edit-mode external link parenthesis coloring */
+.cm-s-obsidian span.cm-url.cm-formatting-link-string {
+  color: var(--text-faint);
+}
+
+/* target both internal WIKI links & MD links in ALL views */
+.cm-s-obsidian span.cm-hmd-internal-link,
+.cm-s-obsidian span.cm-url:has([data-link-path$="md"]),
+.cm-s-obsidian span.cm-link:has([data-link-path$="md"]),
+.cm-s-obsidian span.cm-link:has([data-link-path$="md"]) .cm-underline:hover,
+.markdown-rendered .internal-link
+{
+  color: red;
+}

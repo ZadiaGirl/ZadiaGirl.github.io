@@ -1,0 +1,11 @@
+
+.t-c table {
+	margin-left: auto !important;
+	margin-right: auto !important;
+	text-align: center !important;
+}
+
+table, .table-wrapper  {
+	margin-inline: auto;
+	text-align: center !important;
+}

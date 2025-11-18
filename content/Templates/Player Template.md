@@ -7,11 +7,9 @@ Speed:
 ---
 
 # Stats
-| AC  | [[Efficiency]] | Max HP                          | Proficiency                     | Speed                           |
-| :-: | -------------- | ------------------------------- | ------------------------------- | ------------------------------- |
-|`INPUT[number(class(statNum)):AC]`|`INPUT[number(class(statNum)):Efficiency]`|  `INPUT[number(class(statNum)):HP]`| `INPUT[number(class(statNum)):Proficiency]` | `INPUT[number(class(statNum)):Speed]` |
-
-
+|                 AC                 | [[Efficiency]]                             | Max HP                             | Proficiency                                 | Speed                                 |
+| :--------------------------------: | ------------------------------------------ | ---------------------------------- | ------------------------------------------- | ------------------------------------- |
+| `INPUT[number(class(statNum)):AC]` | `INPUT[number(class(statNum)):Efficiency]` | `INPUT[number(class(statNum)):HP]` | `INPUT[number(class(statNum)):Proficiency]` | `INPUT[number(class(statNum)):Speed]` |
 
 | Hit Dice | Proficiency Bonus | Current HP | Temp HP |
 | :------: | :---------------: | :--------: | :-----: |
