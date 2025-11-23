@@ -1,9 +1,9 @@
----
-Milestones: "0"
-Required: "3"
----
+Required: 6
+Milestones: 1.5
 
-Easy: +0.5
-Medium: +1
-Hard: +2
-Deadly: +4
+| Difficulty | Points |
+| :--------: | ------ |
+|    Easy    | +0.5   |
+|   Medium   | +1     |
+|    Hard    | +2     |
+|   Deadly   | +4     |

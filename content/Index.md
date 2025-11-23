@@ -1,5 +1,5 @@
 # Players
-- [[Jarod|Construct (Jarod)]]
+- [[Jarod notes|Construct (Jarod)]]
 - [[Deb]]
 - 
 # NPC's

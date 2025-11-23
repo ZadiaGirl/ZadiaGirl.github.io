@@ -8,6 +8,12 @@ Location:
 
 # Description
 
+| Status     |     |
+| ---------- | --- |
+| Difficulty |     |
+| Reward     |     |
+| Location   |     |
+
 # Objectives
 - [ ] 1. 
 # Notes

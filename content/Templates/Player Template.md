@@ -7,23 +7,19 @@ Speed:
 ---
 
 # Stats
-|                 AC                 | [[Efficiency]]                             | Max HP                             | Proficiency                                 | Speed                                 |
-| :--------------------------------: | ------------------------------------------ | ---------------------------------- | ------------------------------------------- | ------------------------------------- |
-| `INPUT[number(class(statNum)):AC]` | `INPUT[number(class(statNum)):Efficiency]` | `INPUT[number(class(statNum)):HP]` | `INPUT[number(class(statNum)):Proficiency]` | `INPUT[number(class(statNum)):Speed]` |
+| AC  | [[Efficiency]] | Max HP | Proficiency | Speed |
+| :-: | -------------- | ------ | ----------- | ----- |
+|     |                |        |             |       |
 
-| Hit Dice | Proficiency Bonus | Current HP | Temp HP |
-| :------: | :---------------: | :--------: | :-----: |
-|          |         ,         |            |         |
-
----
-# Stats
+| Hit Dice | Current HP | Temp HP |
+| :------: | :--------: | :-----: |
+|          |            |         |
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |     |     |     |     |     |     |
 |     |     |     |     |     |     |
 ## Proficiencies
-
 
 |  #  | Prof | Skill           | Ability |
 | :-: | :--: | --------------- | :-----: |
@@ -63,5 +59,5 @@ Speed:
 | CP  | SP  | GP  | PP  |
 | :-: | :-: | :-: | :-: |
 |     |     |     |     |
-`INPUT[text:exampleProperty]`
+
 

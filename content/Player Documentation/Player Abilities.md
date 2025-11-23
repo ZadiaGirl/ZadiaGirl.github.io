@@ -49,7 +49,7 @@
 	- [ ] When you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature. Gain +1 to your attack roll.
 	- [ ] Get advantage on your attack roll.
 - Relentless (1pt)
-	- [ ] When you hit 0hp, roll a DC 10 Con save. If you pass you return to 1hp
+	- [ ] When you hit 0hp, roll a DC 10 Con save. If you pass you return to 1hp. You can use this skill as many times up to your ability level.
 -  Strong Might (1pt)
 	- [ ] If your total for a Strength check is less than your Strength score, you can use that score in place of the total. 
 - Danger Sense (1pt)
