@@ -2,14 +2,14 @@
   "name": "@jackyzha0/quartz",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
-  "version": "4.5.2",
+  "version": "0.1.0",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "Zadia <zadiatgirl@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://zadiagirl.github.io/Demon-Punks",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/ZadiaGirl/Demon-Punks"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
