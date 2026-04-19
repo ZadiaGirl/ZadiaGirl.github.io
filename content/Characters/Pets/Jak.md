@@ -1,6 +1,9 @@
 ![[jak.png]]
 
-
+| Str | Dex | Con | Int | Wis | Cha |
+| :-: | --- | --- | --- | --- | --- |
+| -1  | +3  | +1  | +1  | +0  | +1  |
+|  8  | 16  | 12  | 12  |     |     |
 
 ```statblock
 name: Jak
