@@ -1,1 +1,1 @@
-The party meats [[../../NPC/Ishtar/Halstat/Юра (Yura)]], deals with the [[Demon Rats]] in the sewers of Hallstat.
+The party meats [[Юра (Yura)|Yura]], deals with the demon rats in the sewers of Hallstat.

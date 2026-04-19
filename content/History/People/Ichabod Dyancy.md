@@ -1,1 +1,1 @@
-The cult leader that signed a contract with [[../../../Demon Lords/Spires of Ice/Lodna, The Ice Tyrant|Lodna, The Ice Tyrant]], serving as one of the demons pawns in [[../The Great Calamity|The Great Calamity]]. 
+The cult leader that signed a contract with [[Lodno|Lodno]], serving as one of the demons pawns in [[The Great Calamity]]. 

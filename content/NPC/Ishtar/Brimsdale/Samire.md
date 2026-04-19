@@ -1,2 +1,2 @@
-The head of the demon hunters guild in [[../../../../Locations/Ihstar/Brimsdale/Brimsdale|Brimsdale]].
+The head of the demon hunters guild in [[Brimsdale]].
 - Has been very short handed, 

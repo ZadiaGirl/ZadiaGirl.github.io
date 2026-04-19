@@ -1,1 +1,1 @@
-constructs scientist living in brimsdale.
+An expert in constructs,

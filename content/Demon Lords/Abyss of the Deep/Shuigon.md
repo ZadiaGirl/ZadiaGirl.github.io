@@ -1,0 +1,1 @@
+The _Terror of the Deep_ and ruler of the abyssal waters. His forces focus on [[Остров (Ostrov)|Ostrov]].  

@@ -1,1 +1,1 @@
-The party takes on a simple job to deal with the [[Demon Birds]] in [[../../Locations/Ihstar/Ohlsdorf]]. And [[../../Characters/Steve (Jarod)|Steve]] traumatized a small child.
+The party takes on a simple job to deal with the demon birds in [[Ohlsdorf]]. And [[Steve (Jarod)|Steve]] traumatized a small child.

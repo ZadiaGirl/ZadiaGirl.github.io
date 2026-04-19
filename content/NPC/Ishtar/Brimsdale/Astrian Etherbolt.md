@@ -1,3 +1,1 @@
-The leader of the Church of [[Nyphriana,|Nyphriana,]]. 
-
-- 
+The leader of the Church of [[Nyphriana]] in [[Brimsdale]].

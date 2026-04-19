@@ -1,1 +1,1 @@
-Azeal's wife, the _Mistress of Flames_. A ingenious demon lord. 
+[[Azeal|Azeal's]] wife, the _Mistress of Flames_. A ingenious demon lord. 

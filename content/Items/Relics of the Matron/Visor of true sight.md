@@ -1,1 +1,1 @@
-One of the great relics of  [[Nyphriana,|Nyphriana,]].
+One of the great relics of  [[Nyphriana]].

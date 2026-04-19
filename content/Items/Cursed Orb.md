@@ -1,1 +1,1 @@
-The orb that contains the [[../Villain/Avarice|Avarice's]] curse.
+The orb that contains the [[Avarice|Avarice's]] curse.
