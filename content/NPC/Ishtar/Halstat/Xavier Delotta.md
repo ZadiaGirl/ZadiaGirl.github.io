@@ -1,0 +1,1 @@
+The captain of the guard in [[../../../../Locations/Ihstar/Hallstat]], and the father of [[Xenni Delotta]]. 

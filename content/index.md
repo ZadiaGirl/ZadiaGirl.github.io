@@ -1,25 +1,19 @@
-![[banner.png]]
-Welcome to the world of Ghibalia! 
-In a land ravaged by war, you have been taken from your homes. Untrained, poorly equipped, you have been sent to fight on the front lines of the war. I can't wait to start this journey with you all! Send me anything you want put up on your page, your background, any art you've made for your character, whatever!
+![[icon.png]]
+Welcome to the Demon Punks player documentation! Here you will find everything you need for your characters! Everything from maps, notes on the NPC's, and info for leveling your characters will be here!
 
-This will be a place where we can have notes accessed at anytime. There will be a page for everyone's personal notes. You can give me things you want specifically noted and it'll appear on this website after the session!
+The first person to say the secret code will win a prize! Find it hidden somewhere in the site!
+# Players
+- [[Characters/Daxter (Aster)|Daxter]]: Frank
+	- [[Characters/Pets/Jak]]: An orange rat, rescued from the sewers underneath [[Locations/Ihstar/Hallstat]]
+- [[Characters/Demii (Debbie)|Demii]]:  Debbie
+- [[Characters/Samson (Austin)|Samson]]: Austin
+- [[Characters/Scipio (Henry)|Scipio]]: Henry
+- [[Characters/Steve (Jarod)|Steve]]: Jarod
 
-The first person to find and tell me the secret code will be given a gift! It is hidden somewhere in the site! 
-# Players:
-- [[Candid]]
-- [[Frickcit]]
-- [[Mars]]
-- [[Rowan Sage]]
-- [[Silky]]
-- [[Sybil]]
-- [[Лйнуст Олави|Linust Olavi]]
-# World info: 
-- [[World Map]]
-- [[Locations Index]]
-- [[Creatures By Biome]]
-- [[Plants By Biome]]
-# Session Notes:
-- [[Session 1 - A New World|Session 1 - A New World]]
-- [[Session 2 - Giant In The Woods]]
-- [[Session 3 - The Seeding Festival Begins]]
-- [[Session 4 - upcoming...]]
+## Player Information
+- [[site/Player Abilities|Player Abilities]]
+- [[Mods]]
+- [[Store]]
+# NPC's
+- [[NPC/Ishtar/Halstat/Jah]]: The _Mod Mechanic_ introduced to the party by [[Characters/Demii (Debbie)|Demii]], an old time friend, has begun work on restoring [[Characters/Steve (Jarod)|Steve's]] body
+- [[NPC/Ishtar/Halstat/Юра (Yura)|Юра (Yura)]]: A friend of Jah, deals in specialty weapons and ammo. 

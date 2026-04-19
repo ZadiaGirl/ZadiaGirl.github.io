@@ -1,0 +1,1 @@
+The demonologist of [[../../../../Locations/Ihstar/Brimsdale/Brimsdale|Brimsdale]]. 

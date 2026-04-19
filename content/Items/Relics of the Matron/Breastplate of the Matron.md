@@ -1,0 +1,2 @@
+One of the great relics of  [[../../../Demon Lords/The Ward/Nyphriana, Matron of the Damned|Nyphriana, Matron of the Damned]].
++1 AC, 3/day allows the wearer to teleport within 30'. 

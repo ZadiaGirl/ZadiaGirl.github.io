@@ -1,15 +1,15 @@
 {
-  "name": "@zadiaGril/Ghibalia",
+  "name": "@zadiaGril/Demon-Punks",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "author": "Zadia K <zadiatgirl@gmail.com>",
   "license": "Z",
-  "homepage": "zadiagirl.github.io/Ghibalia",
+  "homepage": "zadiagirl.github.io/Demon-Punks",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZadiaGirl/Ghibalia.git"
+    "url": "https://github.com/ZadiaGirl/Demon-Punks.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",

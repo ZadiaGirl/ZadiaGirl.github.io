@@ -1,0 +1,41 @@
+
+# Simple
+- Retractable Arm Blades (125gp, 200gp for upgrades)
+	- As a bonus action, you can make a melee attack with the arm blade. +Dex to hit, 1d6+Dex. 
+	- When upgraded, choose the upgrade path from the options below
+		- Electrify (Exclusive): On hit, target must roll a DC 12+efc Con save or be stunned
+		- Fire (Exclusive): Deal an additional 1d6 fire damage.
+		- Poisoned (Exclusive): On hit, target must roll a DC 10+efc Con save or become [[Mechanics/Poisoned|poisoned]]. 
+	- Increase the damage dealt by the blade to 1d8+1.
+		- Electrify: Deal an additional 1d8+1 electric damage
+		- Fire: Deal an additional 1d8+1 fire damage
+		- Poisoned: Deal an additional 1d8+1 poison damage. Increase the poisoned damage to 2d4
+- Wrist Blunderbuss (100gp, 15gp per round)
+	- Range: 15' cone, as an attack action deal 2d4 damage to all creatures in the range. Must be reloaded after each shot. Targets hit with the blunderbuss must 
+- Stim band (400gp)
+	- When you heal, receive x1.5 HP
+	- Increase the health gained to x2 HP + efficiency
+- Mind Stabilizer (400gp)
+	- +1 to [[Mechanics/Efficiency|Efficiency]] saves per level.
+- Arm Mounted Grappling Hook (80gp)
+	- As a bonus action, launch the hook at a target within 80'.
+	- Add a small motor that allows you to be pulled to the target. Can carry you and one other medium creature. 
+- Ocular Implant (200gp)
+	- As a bonus action, you can mark a target. You gain advantage on attacks against that target. You can only have one target marked at a time. 
+	- Attacks made against you from the marked target are made at disadvantage
+- Leg Shocks (100gp)
+	- As a bonus action, double your movement speed. You must spend an entire turn not moving to reset this ability.
+- Arm Servo (120gp)
+	- Choose one of the below options: 
+		- Enforcement (Exclusive): +1 to Str.
+		- Stabilizer (Exclusive): +1 to Dex attack rolls.
+# Complex
+You can only use a complex mod once per turn. 
+- Demon Blood Infuser (1,000gp)
+	- +1 to Str and Con. Deal an additional 1d6+[[Mechanics/Efficiency|efc]] damage on melee attacks. As bonus action, enter *[[Mechanics/Demon Mode|Demon Mode]]* for rounds equal to your efficiency. 
+- Extra Arms  (2,500gp)
+	- +1 to Str and Dex
+	- Additional +1 to Str and Dex (500gp)
+- Embedded Chest Laser Cannon (5,000gp)
+	- As an action , activate the laser cannon. The laser shoots out in a 10' wide, 60' long beam. Any creature hit by the laser must make a DC 16 Dex saving throw, taking 8d12+[[Mechanics/Efficiency|efc]] damage, half as much on a success. After being fired, the cannon takes 1 minute to cool down.
+	- Advanced Cooling System (1,000gp) reduce cooling time by 3 rounds per level. (max 2)

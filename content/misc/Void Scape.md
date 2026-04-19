@@ -1,0 +1,1 @@
+The void scape is the space between worlds, it is the passageway that demons travel between the rifts in the worlds to travel between the two worlds.

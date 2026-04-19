@@ -1,0 +1,2 @@
+#location #country
+The northern most country, and is mostly mountainous and cold, and is currently engaging in an almost war with the foot soldiers of [[../../../Demon Lords/Spires of Ice/Lodna, The Ice Tyrant|Lodna, The Ice Tyrant]]. 
