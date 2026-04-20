@@ -1,6 +1,6 @@
 #location
 ![[hallstat.png]]
-The capital city of [[Ishtar|Ishtar]], and home to the Demon Punks home base.
+The capital city of [[Ishtar|Ishtar]], and home to the Demon Punks home base. Home to [[../../NPC/Ishtar/Halstat/Xenni Delotta]].
 
 
 

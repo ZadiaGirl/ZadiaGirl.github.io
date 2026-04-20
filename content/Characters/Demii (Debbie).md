@@ -1,12 +1,17 @@
 ## Stats
-| AC  | [[Efficiency]] | Max HP | Proficiency | Speed | Hit Dice |
-| :-: | -------------- | ------ | ----------- | ----- | -------- |
-| 14  | 2              | 33     | +2          | 30    | 3D10+3   |
+| AC  | [[../Mechanics/Efficiency\|Efficiency]] | Max HP | Proficiency | Speed | Hit Dice |
+| :-: | --------------------------------------- | ------ | ----------- | ----- | -------- |
+| 14  | 2                                       | 33     | +2          | 30    | 3D10+3   |
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | -3  | +2  | +3  | +3  | +2  | +1  |
 |  4  | 14  | 16  | 16  | 14  | 12  |
+
+| CP  | SP  | GP  | PP  |
+| :-: | :-: | :-: | :-: |
+|     |     | 78  |     |
+
 ## Proficiencies
 
 |  #  | Prof | Skill           | Ability |
@@ -54,10 +59,8 @@
 |       Pistol       | +5     | 1D4+2  | 60'   | 12       | You can use your bonus action to make a shot with the pistol |
 | Lever-Action Rifle | +5     | 1D8+2  | 60'   | 8        |                                                              |
 
-## Money
+## Armor
 
-| CP  | SP  | GP  | PP  |
-| :-: | :-: | :-: | :-: |
-|     |     | 75  |     |
 
+## Gear 
 

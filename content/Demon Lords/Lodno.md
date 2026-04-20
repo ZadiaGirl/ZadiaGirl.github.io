@@ -1,1 +1,0 @@
-Ruler of the spires of ice. 

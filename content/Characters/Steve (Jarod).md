@@ -1,12 +1,16 @@
 ## Stats
-| AC  | [[Efficiency]] | Max HP  | Proficiency | Speed | Hit Dice |
+| AC  | [[../Mechanics/Efficiency]] | Max HP  | Proficiency | Speed | Hit Dice |
 | :-: | -------------- | ------- | ----------- | ----- | -------- |
-| 14  | +4             | 29 (39) | +2          | 30    | 3D12+3   |
+| 14  | +7             | 29 (39) | +2          | 30    | 3D12+3   |
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | +5  | +1  | +3  | +3  | -3  | -3  |
 | 20  | 12  | 16  | 16  |  4  |  4  |
+
+| CP  | SP  | GP  | PP  |
+| :-: | :-: | :-: | :-: |
+|     |     | 150 |     |
 ## Proficiencies
 
 |  #  | Prof | Skill           | Ability |
@@ -35,6 +39,8 @@
 | -3  |      | Performance     |   CHA   |
 | -3  |      | Persuasion      |   CHA   |
 | CON |  X   |                 |         |
+# Damaged Circuitry
+If you take more than 10 points of damage, you must make a luck save against the amount of damage taken. On a failed save, you lose control of your processing for 1 round.
 # Abilities
 - Long Limbs: You can reach 10' for melee attacks
 - Extra Attack Lv 1: You can make 2x attacks when you make the attack action
@@ -43,17 +49,16 @@
 ## Mods
 |     Mod Name      | Level | Description                                                                                                                                                                                                                                                            | complexity |
 | :---------------: | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-|   Chainsaw Arm    | 1     | +7 to hit, 1d10+5, is considered magical damage. On hit, enemy makes a DC 13 Con save or inflict [[Bleeding\|bleeding]]                                                                                                                                                | Simple     |
+|   Chainsaw Arm    | 1     | +7 to hit, 1d10+5, is considered magical damage. On hit, enemy makes a DC 13 Con save or inflict [[../Mechanics/Bleeding\|bleeding]]                                                                                                                                                | Simple     |
 | Voice Synthesizer | 1     | You can mimic the voice of any person or sound you have heard before. In order to perfectly replicated another person's voice you must have heard at least 5 minutes worth of speech.  You have advantage on deception checks involving impersonating a person's voice | Simple     |
 |  Mechanical Eyes  | 1     | You can use Int for perception checks.                                                                                                                                                                                                                                 |            |
+|      Piercer      | 1     | 1D8+Str+[[../Mechanics/Efficiency\|efc]], when you hit by 5+ over their AC, reduce their AC by 1. On a crit, reduce their AC by 2.                                                                                                                                                  | complex    |
 
 # Equipment
 ## Weapons
 
-## Money
+## Armor
 
-| CP  | SP  | GP  | PP  |
-| :-: | :-: | :-: | :-: |
-|     |     | 185 |     |
 
+## Gear
 

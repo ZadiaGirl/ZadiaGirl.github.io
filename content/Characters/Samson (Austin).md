@@ -1,5 +1,20 @@
+![[Samson.png]]
+
+Samson had a hard life. Grew up in the back alley behind the local militia force headquarters. Little better than a publicly funded gang, as far as most were concerned. As a child, he earned his daily meal by informing the militia of "opportunities". It wasn't long before he was "asked" to join in these opportunistic endeavors. 
+
+A quiet fellow, who held his tongue more often than not, he earned a reputation in the militia as someone who could be trusted.
+
+Samson preferred to work in the shadows and not expose himself to undo harm. A blade and a trusty sidearm were more than enough for him to accomplish his tasks.
+
+Eventually, Samson decided his local militia was more of a burden than an opportunity. 
+
+Contracting was lucrative...or so he'd been told.
+
+Without a word to his previous employers, he disappeared into the wider world. Intent on working for himself and taking what he needed. 
+
+Good? ... bad? ... he was the guy with the gun. That's all that really matters, right?
 ## Stats
-| AC  | [[Efficiency]] | Max HP | Proficiency | Speed | Hit Dice |
+| AC  | [[../Mechanics/Efficiency]] | Max HP | Proficiency | Speed | Hit Dice |
 | :-: | -------------- | ------ | ----------- | ----- | -------- |
 | 13  | 2              | 33     | +2          | 30    | 3D10+3   |
 
@@ -7,6 +22,10 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | +1  | +1  | +3  | +2  | +0  | +0  |
 | 13  | 12  | 16  | 14  | 11  | 10  |
+
+| CP  | SP  | GP  | PP  |
+| :-: | :-: | :-: | :-: |
+|     |     | 100 |     |
 ## Proficiencies
 
 |  #  | Prof | Skill           | Ability |
@@ -49,16 +68,15 @@
 
 # Equipment
 ## Weapons
-|   Name    | To Hit | Damage | Range | Mag Size | Properties                                                   |
-| :-------: | ------ | ------ | ----- | -------- | ------------------------------------------------------------ |
-|  Pistol   | +4     | 1D4+2  | 60'   | 12       | You can use your bonus action to make a shot with the pistol |
-|  Shotgun  | +3     | 1D10+1 | 30'   | 4        |                                                              |
-| Tri-Blade | +3     | 2d6+1  | 5'    | x        |                                                              |
+|    Name     | To Hit | Damage | Range | Mag Size | Properties                                                   |
+| :---------: | ------ | ------ | ----- | -------- | ------------------------------------------------------------ |
+|   Pistol    | +4     | 1D4+2  | 60'   | 12       | You can use your bonus action to make a shot with the pistol |
+|   Shotgun   | +3     | 1D10+1 | 30'   | 4        |                                                              |
+|  Tri-Blade  | +3     | 2d6+1  | 5'    | x        |                                                              |
+| Demon Blade | +3     | 2d4+1  | 5'    |          |                                                              |
 
-## Money
+## Armor
 
-| CP  | SP  | GP  | PP  |
-| :-: | :-: | :-: | :-: |
-|     |     | 135 |     |
 
+## Gear
 

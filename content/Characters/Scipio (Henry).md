@@ -1,5 +1,8 @@
+![[Scipio.png]]
+
+Wiry guy with blue eyes, wearing all black, almost always wears a mask over his face. He grew up as an orphan on the streets raising his 5 younger siblings, stealing to get by, and living out of an abandoned school. Scipio became a demon hunter to make a better life for himself, as he made a vow to make sure the kids are always fed.
 ## Stats
-| AC  | [[Efficiency]] | Max HP | Proficiency | Speed | Hit Dice |
+| AC  | [[../Mechanics/Efficiency]] | Max HP | Proficiency | Speed | Hit Dice |
 | :-: | -------------- | ------ | ----------- | ----- | -------- |
 | 15  | +1             | 23     | +2          | 30    | 3d6+3    |
 
@@ -7,6 +10,11 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |  0  | +3  | +2  | +3  | -3  | +1  |
 | 11  | 16  | 14  | 16  |  4  | 13  |
+
+| CP  | SP  | GP  | PP  |
+| :-: | :-: | :-: | :-: |
+|     |     | 210 |     |
+
 ## Proficiencies
 
 |  #  | Prof | Skill           | Ability |
@@ -39,7 +47,7 @@
 # Abilities
 - Extra Attack Lv 1: You can attack 1x per level per turn. Gain +1 per level to the damage of the attack. (Max Level 3)
 - Second Wind Lv 1: As a bonus action, heal 1D10+Con per level. You can use this ability up to the number of levels you have in this ability.
-- Marksman Lv 1: Gain +1 per level on ranged attacks. Gain advantage on ranged attacks over 40'
+- Marksman Lv 1: Gain +1 per level on ranged attacks. Gain advantage on ranged attacks over 20'
 - Action Surge Lv 1: On your turn, you can take one additional action. You can use this as many times up to your level, you must finish a short rest before you can use it again. 
 - Evasion Lv 2: When you make a Dex save to only take half damage, you take 0 damage instead.  Gain advantage on the Dex save. 
 ## Mods
@@ -52,12 +60,11 @@
 |        Name         | To Hit | Damage | Range | Mag Size | Properties                                                   |
 | :-----------------: | ------ | ------ | ----- | -------- | ------------------------------------------------------------ |
 |       Pistol        | +5     | 1D4+2  | 60'   | 12       | You can use your bonus action to make a shot with the pistol |
-| Lever-Action Riffle | +5     | 1D8+3  | 120'  | 6        |                                                              |
+| Lever-Action Rifle | +5     | 1D8+3  | 120'  | 6        |                                                              |
 
-## Money
 
-| CP  | SP  | GP  | PP  |
-| :-: | :-: | :-: | :-: |
-|     |     | 160 |     |
+## Armor
 
+
+## Gear
 

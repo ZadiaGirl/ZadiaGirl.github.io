@@ -1,0 +1,1 @@
+An advanced alloy comprised of silver and a strange _demon_ particle. Used to forge the strongest weapons and armors. 

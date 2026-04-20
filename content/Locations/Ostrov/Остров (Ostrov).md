@@ -1,0 +1,1 @@
+goroda is the capital 

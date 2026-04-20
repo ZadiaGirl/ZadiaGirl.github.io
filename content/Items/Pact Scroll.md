@@ -1,0 +1,1 @@
+Demonologists believe that, when a powerful demon makes a deal with a human, a pact scroll is created. They are believed to be impossible to open. Nothing else is known of these scrolls.

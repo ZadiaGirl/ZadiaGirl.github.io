@@ -1,0 +1,1 @@
+The captain of the guard in [[../../../../Locations/Ihstar/Brimsdale/Brimsdale|Brimsdale]]. 

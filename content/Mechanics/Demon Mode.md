@@ -1,3 +1,8 @@
+---
+publish: "false"
+draft: "true"
+---
+
 #Mechanic
 While in demon mode you gain the following affects:
 - You have resistance to damage.

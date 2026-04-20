@@ -1,0 +1,1 @@
+A strange fire dagger, taken from [[../Villain/Avarice|Avarice's]] hideout in [[../Locations/Ihstar/Hallstat]]. 

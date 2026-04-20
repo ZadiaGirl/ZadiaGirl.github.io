@@ -1,3 +1,0 @@
-- [x] Find the source of the [[Demon Rats|demon rats]] in sewers of [[Hallstat]].
-- [ ] Clear [[Ohlsdorf]] of the [[Player Documentation/Jobs/Demon Birds|demon bird]]
-- [x] Rescue the trapped miners in [[Brimsdale]]
