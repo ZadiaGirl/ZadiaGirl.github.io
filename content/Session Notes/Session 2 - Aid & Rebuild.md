@@ -1,1 +1,1 @@
-The party meats [[../../Characters/Demii (Debbie)|Demii]], a lone demon hunter, who introduces the party to [[../../NPC/Ishtar/Halstat/Jah]]. Later they take the job to [[Aid & Rebuild]] the mines in Brimsdale after a demon attack. Solidifying the alliance between Demii and the rest of the party.
+The party meats [[Demii]], a lone demon hunter, who introduces the party to [[Jah]]. Later they take the job to _Aid & Rebuild_ the mines in Brimsdale after a demon attack. Solidifying the alliance between Demii and the rest of the party.

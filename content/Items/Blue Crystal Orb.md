@@ -1,1 +1,1 @@
-Discovered to be a magical device that holds the curse placed on [[../Villain/Avarice]] by [[../../Demon Lords/Spires of Ice/Generals Of Ice/Kalt]].
+Discovered to be a magical device that holds the curse placed on [[Avarice]] by [[Kalt]].

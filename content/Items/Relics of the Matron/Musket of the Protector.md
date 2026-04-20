@@ -1,1 +1,1 @@
-One of the great relics of  [[../../../Demon Lords/The Ward/Nyphriana, Matron of the Damned|Nyphriana, Matron of the Damned]], and is currently located in the [[../../Locations/Kodinsk/Northern Plains|Northern Plains]] of [[../../Locations/Kodinsk/Kodinsk|Kodinsk]]. 
+One of the great relics of  [[Nyphriana]], and is currently located in the [[Northern Plains]] of [[Kodinsk]]. 

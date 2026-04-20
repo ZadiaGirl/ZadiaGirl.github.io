@@ -1,1 +1,1 @@
-![[Kalt.png]]Kalt is the right hand man of [[../Lodna, The Ice Tyrant|Lodna]], was tasked with killing [[../../../Villain/Avarice|Avarice's]] family after discovering his plans to kill Lodno. 
+![[Kalt.png]]Kalt is the right hand man of [[Lodno|Lodna]], was tasked with killing [[Avarice|Avarice's]] family after discovering his plans to kill Lodno. 

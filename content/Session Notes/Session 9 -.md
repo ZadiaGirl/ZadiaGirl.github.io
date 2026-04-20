@@ -1,1 +1,2 @@
-New Secret Code!
+Look at you, trying to see into the future! What a sneaky little duck! For your determination.... How about I give you a new secret code? 
+"well I'll be a demons uncle." Slip it into roll play, and you can get double the reward! 

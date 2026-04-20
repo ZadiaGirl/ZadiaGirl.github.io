@@ -1,1 +1,1 @@
-Head of the demon hunters guild in [[../../../Locations/Ostrov/Остров (Ostrov)]].
+Head of the demon hunters guild in [[Остров (Ostrov)|Ostrov]].

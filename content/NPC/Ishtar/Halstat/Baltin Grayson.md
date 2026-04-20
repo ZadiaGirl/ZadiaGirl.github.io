@@ -1,2 +1,2 @@
 #NPC
-The head of the demon hunters guild in [[../../../../Locations/Ihstar/Hallstat]]. 
+The head of the demon hunters guild in [[Hallstat]]. 
