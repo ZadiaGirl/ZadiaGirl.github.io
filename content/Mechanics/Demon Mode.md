@@ -1,9 +1,9 @@
 ---
-publish: "false"
-draft: "true"
+publish: "true"
+draft: "false"
+tags:
+  - mechanic
 ---
+
 While in demon mode you gain the following affects:
-- You have resistance to damage.
-- You have disadvantage on saving throws.
-- You gain 10 temp HP
-- 
+1) You gain 10 temp HP

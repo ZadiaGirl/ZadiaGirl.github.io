@@ -1,4 +1,8 @@
-#Mechanic
+---
+tags:
+  - mechanic
+---
+
 Corruption is the level of mental and physical decay caused by the use of [[Mods#Complex|complex mods]]. 
 # Level 1
 - -1 to ability checks

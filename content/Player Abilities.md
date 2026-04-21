@@ -26,7 +26,7 @@
 - Second Wind (2pts)
 	- [ ]  As a bonus action, heal 1D10+Con per level. You can use this ability up to the number of levels you have in this ability.
 - Marksman (1pt)
-	- [ ]  Gain +1 per level on ranged attacks. Gain advantage on ranged attacks over 40'
+	- [ ]  Gain +1 per level on ranged attacks. Gain advantage on ranged attacks over 20'
 - Melee Master (1pt)
 	- [ ] Gain +1 per level to melee attacks, Attacks made with the off-hand get the modifier bonus to damage.
 - Efficiency Boost (3pt) 

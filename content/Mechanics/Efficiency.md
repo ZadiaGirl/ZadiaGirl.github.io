@@ -1,4 +1,7 @@
-#Mechanic 
+---
+tags:
+  - mechanic
+---
 Efficiency is the measurement of a persons aptitude to bond and control their mods. When you use a [[Mods#Complex|complex]] mod, you must make a check, the DC is based on your efficiency level. When you fail a save, you get a point of [[Corruption]]. 
 
 | Efficiency Score | DC  |
