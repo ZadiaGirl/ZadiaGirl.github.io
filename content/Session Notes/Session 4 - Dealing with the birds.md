@@ -1,1 +1,0 @@
-The party takes on a simple job to deal with the demon birds in [[Ohlsdorf]]. And [[Steve (Jarod)|Steve]] traumatized a small child.

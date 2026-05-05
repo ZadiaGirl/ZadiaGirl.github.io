@@ -1,1 +1,0 @@
-One of the great relics of  [[Nyphriana]].

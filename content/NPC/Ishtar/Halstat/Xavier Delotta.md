@@ -1,1 +1,0 @@
-The captain of the guard in [[Hallstat]], and the father of [[Xenni Delotta]]. 

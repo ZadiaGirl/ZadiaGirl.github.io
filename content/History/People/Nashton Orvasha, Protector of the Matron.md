@@ -1,1 +1,0 @@
-The original protector of the matron, [[Nyphriana|Nyphriana]]. Nyphriana chooses a new protector in times of great disturbance of the world. Nashton was chosen before [[The Great Calamity]]. He fought valiantly, and was the one to finally kill [[Ichabod Dyancy]].

@@ -1,1 +1,0 @@
-Info available upon purchase! Also.... Penis.

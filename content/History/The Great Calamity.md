@@ -1,1 +1,0 @@
-200 years ago, [[Lodno]] and [[Suki]] used an ancient artifact to create a massive rift, allowing for an incursion into the human world. Suki had manipulated an extremist cult into joining them. Their leader, [[Ichabod Dyancy]] was persuaded to sign a deal with Lodna, creating the first recorded instance of a [[Pact Scroll]]. This war lasted for 17 years before a

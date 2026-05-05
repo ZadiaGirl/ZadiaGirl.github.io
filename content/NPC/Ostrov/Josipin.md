@@ -1,1 +1,0 @@
-The best friend to [[Avarice]], back in his demon hunting days. He worked with Avarice for years, until Avarice's family was killed by [[Kalt]], resulting in their partnership falling apart. On their last job they found a gem of power belonging to Kalt, the general of the ice tyrant. 

@@ -1,1 +1,0 @@
-Discovered to be a magical device that holds the curse placed on [[Avarice]] by [[Kalt]].

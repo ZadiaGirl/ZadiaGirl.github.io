@@ -1,1 +1,0 @@
-The demonologist of [[Brimsdale]]. 

@@ -1,1 +1,0 @@
-The local demon and magic expert. A quirky girl with frizzy hair and glasses. She lives in [[Hallstat]] with her father [[Xavier Delotta]]. 

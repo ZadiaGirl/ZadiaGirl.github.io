@@ -1,1 +1,0 @@
-![[Kalt.png]]Kalt is the right hand man of [[Lodno|Lodna]], was tasked with killing [[Avarice|Avarice's]] family after discovering his plans to kill Lodno. 

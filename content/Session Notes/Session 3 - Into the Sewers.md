@@ -1,1 +1,0 @@
-The party meats [[Юра (Yura)|Yura]], deals with the demon rats in the sewers of Hallstat.

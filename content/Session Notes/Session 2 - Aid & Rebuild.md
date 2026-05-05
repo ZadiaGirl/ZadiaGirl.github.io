@@ -1,1 +1,0 @@
-The party meats [[Demii]], a lone demon hunter, who introduces the party to [[Jah]]. Later they take the job to _Aid & Rebuild_ the mines in Brimsdale after a demon attack. Solidifying the alliance between Demii and the rest of the party.
