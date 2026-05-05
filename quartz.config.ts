@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Demon Punks",
+    pageTitle: "Campaign Sites",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
